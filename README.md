@@ -9,6 +9,12 @@ A game consists of a series of turns. During each turn, all Units on the map hav
 
 <b>Functionality to support</b> (expanded design details for each below):
 
+* Player Managemnt
+* Pilots
+* Units
+* Team Management
+* Missions
+
 1. Initiative Phase
 2. Movement Phase (Ground)
 3. Movement Phase (Aerospace)
@@ -19,7 +25,43 @@ A game consists of a series of turns. During each turn, all Units on the map hav
 
 ===========
 
-### INITIATIVE PHASE
+### PLAYER MANAGEMENT - NYD
+Each participant in a match will have several units to manage.
+
+1. Register an account for use in tracking a variety of information
+2. Pilots
+3. Units
+4. Missions participated in and their associated data
+
+===========
+
+### PILOTS - NYD
+A player can have multiple pilots with varying attributes
+
+===========
+
+### UNITS - NYD
+A player can have multiple units
+
+===========
+
+### TEAM MANAGEMENT - NYD
+Each match will consist of 1 or more players allied with each other
+
+1. Register a team for use in tracking a variety of information
+2. Add players
+3. Paricipate in missions
+
+===========
+
+### MISSIONS - NYD
+A mission will include multiple teams and maps out the turns taken during a match
+
+1. 
+
+===========
+
+### INITIATIVE PHASE - NYD
 Each player rolls 2D6 and adds the results together to deter- mine his or her Initiative; re-roll ties. The player with the higher result is the Initiative Winner. The other player is the Initiative Loser for this turn.
 
 * Roll the 2D6
@@ -30,7 +72,7 @@ Each player rolls 2D6 and adds the results together to deter- mine his or her In
 
 ===========
 
-### MOVEMENT PHASE (GROUND)
+### MOVEMENT PHASE (GROUND) - NYD
 The team that lost Initiative chooses one ground unit (non- aerospace; this includes VTOLs) and moves it  rst. If this team has more ground units than the team that won Initiative, it may need to move more than one ground unit, as described in Unequal Numbers of Units, p. 39.
 
 The team that won Initiative then moves one ground unit. If this team has more ground units than the team that lost Initiative, it may need to move more than one ground unit (see Unequal Numbers of Units).
