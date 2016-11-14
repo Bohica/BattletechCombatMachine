@@ -1,4 +1,7 @@
 # Battletech Combat Machine
+
+<b>Need to move most of this into the wiki</b>
+
 <b>BattleTech</b> is a wargaming and science fiction franchise launched by FASA Corporation in 1984, acquired by WizKids in 2000, and owned since 2003 by Topps. The series began with FASA's debut of the board game BattleTech (originally named BattleDroids) by Jordan Weisman and L. Ross Babcock III and has since grown to include numerous expansions to the original game, several computer and video games, a collectible card game, a series of more than 100 novels, an animated television series and more.
 
 ===========
