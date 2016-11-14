@@ -17,7 +17,9 @@ A game consists of a series of turns. During each turn, all Units on the map hav
 6. Heat Phase
 7. End Phase
 
-### INITIATIVE PHASE
+===========
+
+## INITIATIVE PHASE
 Each player rolls 2D6 and adds the results together to deter- mine his or her Initiative; re-roll ties. The player with the higher result is the Initiative Winner. The other player is the Initiative Loser for this turn.
 
 * Roll the 2D6
@@ -26,7 +28,9 @@ Each player rolls 2D6 and adds the results together to deter- mine his or her In
 * If the sides differ in number of players, apply extra 2D6 rolls to balance the rolls
 * Archive the accumulted initiative rolls for the sides
 
-### MOVEMENT PHASE (GROUND)
+===========
+
+## MOVEMENT PHASE (GROUND)
 The team that lost Initiative chooses one ground unit (non- aerospace; this includes VTOLs) and moves it  rst. If this team has more ground units than the team that won Initiative, it may need to move more than one ground unit, as described in Unequal Numbers of Units, p. 39.
 
 The team that won Initiative then moves one ground unit. If this team has more ground units than the team that lost Initiative, it may need to move more than one ground unit (see Unequal Numbers of Units).
